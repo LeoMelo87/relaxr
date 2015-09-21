@@ -163,4 +163,43 @@ header  {
     padding: 10px 50px;
 
   }
-Test
+
+footer {
+  background-color: #121212;
+  height: 250px;
+  max-width: 1200px;
+}
+
+#social {
+  max-width: 90px;
+  margin: 0 auto;
+  padding-right: 10px;
+}
+
+  .twitter {
+    float: left;
+    padding-top: 30px;
+  }
+
+  .facebook {
+    float: right;
+    padding-top: 30px;
+  }
+
+  .footer{
+  color: #f9e42e;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  font-size: 24px;
+  padding-top: 50px;
+  }
+
+  .copyright {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 9px;
+    color: white;
+    text-align: center;
+    padding-top: 120px;
+  }
