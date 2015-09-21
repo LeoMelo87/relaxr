@@ -1,4 +1,14 @@
 
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+
 html {
   box-sizing: border-box;
 }
@@ -8,12 +18,23 @@ html {
   box-sizing: inherit;
 }
 
+header {
+  background-image: url("../images/header_bg.jpg");
+  position: absolute;
+  width: 100%;
+  height: 600px;
+  top: -10px;
 
-body {
-  color: #f0efef;
-  background: url("../header_bg.jpg") no-repeat center top rgb(134,141,157);
-  background-size: cover;
 }
+
+.benefits {
+  position: absolute;
+  top: 550px;
+  height: 400px;
+  background-color: #f0efef;
+}
+
+
 
 #container {
   width: 100%;
