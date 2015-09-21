@@ -18,10 +18,12 @@ html {
   box-sizing: inherit;
 }
 
+/*HTML*/
 html {
   max-width: 1200px;
 }
 
+/*Header*/
 header  {
   background-image: url("../images/header_bg.jpg");
   height: 500px;
@@ -65,3 +67,44 @@ header  {
     padding: 10px 50px;
     margin-top: 50px;
   }
+
+#benefits {
+  background-color: #f0efef;
+  height: 300px;
+  margin: 0 auto;
+  padding: 0px;
+  max-width: 1200px;
+
+}
+
+    .benefits {
+      font-family: "Open Sans", sans-serif;
+      font-weight: 600;
+      font-size: 20px;
+      padding-left: 70px;
+      padding-top: 40px;
+      color: #033048;
+    }
+
+    .benefits2 {
+      font-family: "Open Sans", sans-serif;
+      font-weight: 300;
+      font-size: 13px;
+      width: 320px;
+      padding-left: 70px;
+      padding-top: 20px;
+      line-height: 1.5;
+    }
+
+    ul {
+      font-family: "Open Sans", sans-serif;
+      font-weight: 300;
+      font-size: 13px;
+      text-align: left;
+      line-height: 1.5;
+      width: 220px;
+      padding-left: 90px;
+      padding-top: 10px;
+      color: #606161;
+      list-style: inside;
+    }
