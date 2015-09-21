@@ -74,6 +74,8 @@ header  {
 
   }
 
+/*Benefits div*/
+
 #benefits {
   background-color: #f0efef;
   height: 300px;
@@ -115,6 +117,8 @@ header  {
     list-style: inside;
   }
 
+/*Quote div*/
+
 #quote {
   background-image: url("../images/testimonial_bg.jpg");
   height: 200px;
@@ -142,6 +146,8 @@ header  {
     color: #f0efef;
     padding-top: 10px;
   }
+
+/*Sign up button div*/
 
 #sign {
   background-color: #f9e42e;
@@ -174,6 +180,8 @@ header  {
     text-decoration: none;
 
   }
+
+/*Footer*/
 
 footer {
   background-color: #121212;
