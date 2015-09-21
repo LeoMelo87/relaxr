@@ -11,12 +11,16 @@
 
 
 
-/*HTML*/
+/***************
+      HTML
+****************/
 html {
   max-width: 1200px;
 }
 
-/*Header*/
+/***************
+    Header
+****************/
 header  {
   background-image: url("../images/header_bg.jpg");
   height: 500px;
@@ -67,7 +71,9 @@ header  {
 
   }
 
-/*Benefits div*/
+/*************
+  Benefits div
+**************/
 
 #benefits {
   background-color: #f0efef;
@@ -110,7 +116,9 @@ header  {
     list-style: inside;
   }
 
-/*Quote div*/
+/*************
+  Quote div
+**************/
 
 #quote {
   background-image: url("../images/testimonial_bg.jpg");
@@ -140,7 +148,9 @@ header  {
     padding-top: 10px;
   }
 
-/*Sign up button div*/
+/**************
+Sign up button div
+***************/
 
 #sign {
   background-color: #f9e42e;
@@ -174,7 +184,9 @@ header  {
 
   }
 
-/*Footer*/
+/**********
+  Footer
+***********/
 
 footer {
   background-color: #121212;
