@@ -75,7 +75,7 @@ header  {
   padding: 0px;
   max-width: 1200px;
 
-}
+  }
 
     .benefits {
       font-family: "Open Sans", sans-serif;
@@ -108,3 +108,31 @@ header  {
       color: #606161;
       list-style: inside;
     }
+
+#quote {
+  background-image: url("../images/testimonial_bg.jpg");
+  height: 200px;
+}
+
+      .quote {
+        font-family: "Open Sans", sans-serif;
+        font-weight: 300;
+        font-style: italic;
+        font-size: 18px;
+        text-align: center;
+        max-width: 300px;
+        color: #606161;
+        margin: auto;
+        padding-top: 30px;
+      }
+
+        .quote2 {
+          font-family: "Open Sans", sans-serif;
+          font-weight: 600;
+          font-size: 18px;
+          text-align: center;
+          max-width: 300px;
+          margin: 0 auto;
+          color: #f0efef;
+          padding-top: 10px;
+        }
