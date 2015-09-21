@@ -68,6 +68,12 @@ header  {
     margin-top: 50px;
   }
 
+  .linkbutton1 {
+    color: #033048;
+    text-decoration: none;
+
+  }
+
 #benefits {
   background-color: #f0efef;
   height: 300px;
@@ -157,10 +163,15 @@ header  {
     border: none;
     background-color: #033048;
     max-width: 1200px;
-    color: white;
     display: block;
     margin: 0 auto;
     padding: 10px 50px;
+
+  }
+
+  .linkbutton2 {
+    color: #606161;
+    text-decoration: none;
 
   }
 
